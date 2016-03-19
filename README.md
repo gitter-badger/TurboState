@@ -2,7 +2,6 @@
   <img src="./TurboState_Logo.png"/>
 </p>
 
-____
 ---
 
 <p align="center">
