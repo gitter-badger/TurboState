@@ -1,7 +1,7 @@
 {
   "name": "turbostate",
   "version": "0.1.0",
-  "description": "Multi-threaded observable data type",
+  "description": "Multi-threaded, asynchronous, observable data type",
   "main": "Build/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
