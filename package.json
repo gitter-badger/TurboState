@@ -1,0 +1,25 @@
+{
+  "name": "turbostate",
+  "version": "0.1.0",
+  "description": "Multi-threaded observable data type",
+  "main": "Build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thelambdaparty/TurboState.git"
+  },
+  "keywords": [
+    "state",
+    "observable",
+    "turbo",
+    "multi-threaded"
+  ],
+  "author": "Hadrian Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thelambdaparty/TurboState/issues"
+  },
+  "homepage": "https://github.com/thelambdaparty/TurboState#readme"
+}
