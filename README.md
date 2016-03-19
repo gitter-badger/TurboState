@@ -1,18 +1,15 @@
-<center>
+<p align="center">
+  <img src="./TurboState_Logo.png"/>
+</p>
 
-  ![Turbo State Logo](./TurboState_Logo.png)
-
-</center>
-
+____
 ---
 
-<center>
-
-<!--START:VERSION-->
-***ALPHA 0.1.0***
-<!--END:VERSION-->
-
-</center>
+<p align="center">
+  <!--START:VERSION-->
+  <em><b>ALPHA 0.1.0</b></em>
+  <!--END:VERSION-->
+</p>
 
 ```javascript
 import { turbocharge } from 'turbostate'
