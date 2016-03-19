@@ -1,6 +1,6 @@
 <center>
 
-  ![Turbo State Logo](./TurboState_Logo.svg)
+  ![Turbo State Logo](./TurboState_Logo.png)
 
 </center>
 
