@@ -5,17 +5,17 @@ module.exports = function (wallaby) {
         pattern: 'node_modules/babel-polyfill/dist/polyfill.js',
         instrument: false
       },
-      'TurboState.js'
+      'Library/TurboState.js'
     ],
 
     tests: [
-      'Tests.js'
+      'Library/Tests.js'
     ],
 
     testFramework: 'mocha',
 
     compilers: {
-      '**/*.js': wallaby.compilers.babel()
+      'Library/*.js': wallaby.compilers.babel()
     },
 
     env: {
@@ -23,5 +23,5 @@ module.exports = function (wallaby) {
       // More options are described here
       // http://wallabyjs.com/docs/integration/node.html
     }
-  };
-};
+  }
+}
