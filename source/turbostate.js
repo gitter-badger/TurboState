@@ -1,16 +1,11 @@
 ;(function () {
-  /**
-   * @namespace TurboState
-  */
-  var TurboState = {
-    turbocharge: function turbocharge () {
-      return true
-    }
-  }
+  /** @namespace TurboState */
+  var TurboState = {}
 
   //
   // export library
   //
+  /* istanbul ignore next */
   if (typeof module === 'object') {
     module.exports = TurboState
   } else if (typeof exports === 'object') {
