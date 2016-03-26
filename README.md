@@ -102,6 +102,8 @@
 
 ## About
 
+[![Join the chat at https://gitter.im/thelambdaparty/TurboState](https://badges.gitter.im/thelambdaparty/TurboState.svg)](https://gitter.im/thelambdaparty/TurboState?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## API
 
 ## Internals
